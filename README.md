@@ -8,6 +8,7 @@ Summary:
 >How do you find the most common item in the list (along with its count) after the first instance of a given item?
 >
 >Examples:
+>
 >[1, 1, 1, 2, 3, 4, 4, 1], 2 -> (4, 2)
 >
 >[1, 1, 1, 2, 3, 4, 4, 1], 1 -> (1, 3)
