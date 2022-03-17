@@ -1,6 +1,6 @@
 # LoAsEasyAlgorithmicChallenge
 
-Woebot company coding challenge. Via [this git](https://gist.github.com/dmoreh/ba524ec60c99920d5c7e6adf9cdf8dee/)
+Woebot company coding challenge. Via [this git repo](https://gist.github.com/dmoreh/ba524ec60c99920d5c7e6adf9cdf8dee/)
 
 Summary:
 
