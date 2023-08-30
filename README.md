@@ -20,3 +20,6 @@ Summary:
 The presented solution not only solves a problem, but represents the usage of a Swift language specific approach.
 
 kuts
+shmurg
+kurg
+sturg
